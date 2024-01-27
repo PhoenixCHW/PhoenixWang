@@ -21,3 +21,16 @@ enterNumber = int(input("Please enter a number: "))
 print(enterNumber)  #這樣會好看點
 collatz(enterNumber)
 ```
+#### 成果如下
+````
+Please enter a number: 6
+6
+3
+10
+5
+16
+8
+4
+2
+1
+````
